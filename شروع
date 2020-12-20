@@ -3,27 +3,26 @@ This note has all the settings and instructions to get started in Obsidian.
 This ReadMe is targeted to users who use primarily a language like Urdu, Farsi, Arabic.
 
 Obsidian currently don't support Urdu completely.
-But this vault has been adapted to allow Urdu typing.
+But this vault has been adapted to allow Urdu typing, and Urdu phonetic keyboard layout.
 
-### Shortcuts
+### Shortcuts (set by me)
  | Key Name | What it Does                              |
  | -------- | ----------------------------------------- |
- | F1       | Open Settings                             |
+ | F1       | Switch Between Edit Mode and Preview Mode |
  | F2       | Rename File Name                          |
  | F3       | Switch Between Edit Mode and Preview Mode |
- | F4       | To Open Quick Switcher                    |
- | F5       |                                           |
- | F6       |                                           |
- | F7       |                                           |
- | F8       |                                           |
- | F9       |                                           |
- | F10      | To Open Left Sidebar                                         |
+ | F4       | !empty                                    |
+ | F5       | Switch Text Direction in Note (RTL<>LTR)  |
+ | F6       | !empty                                    |
+ | F7       | !empty                                    |
+ | F8       | !empty                                    |
+ | F9       | !empty                                    |
+ | F10      | To Open Left Sidebar                      |
  | F11      | Fullscreen the App                        |
- | F12      | To open Right Sidebar                                          |
+ | F12      | To open Right Sidebar                     |
  |          |                                           |
 
-![[Attachments/Untitled recording.webm]]
-
+**Other**
 Function                        |   | Shortcut          
 ------------------------------- | - | ------------------
 Editor: save file               |   | `Ctrl/Cmd+S`      
@@ -40,14 +39,14 @@ Open Markdown converter         |   | Blank
 Open today's note               |   | Blank             
 Create new Zettelkasten note    |   | Blank             
 Open random note                |   | Blank             
-Navigate back                   |   | `Ctrl/Cmd-Alt+Left arrow`  
-Navigate forward                |   | `Ctrl/Cmd-Alt+Right arrow`  
+Navigate back                   |   | `Alt+Left arrow`  
+Navigate forward                |   | `Alt+Right arrow`  
 Open vault location             |   | Blank             
 Use dark mode                   |   | Blank             
 Use light mode                  |   | Blank             
 Search current file             |   | `Ctrl/Cmd-F`      
-Toggle edit/preview mode        |   | `Ctrl/Cmd E`      
-Delete current file             |   | Blank             
+Toggle edit/preview mode        |   | `Ctrl/Cmd E` `F1` `F3`     
+Delete current file             |   | `Alt+Del`             
 Split vertical                  |   | Blank             
 Split horizontal                |   | Blank             
 Close active pane               |   | Blank             
@@ -63,3 +62,5 @@ Italic Selected Text |   | `Ctrl/Cmd-I`
 Insert External link |   | `Ctrl/Cmd-K`
 Indent               |   | `Ctrl/Cmd-]`
 Unindent             |   | `Ctrl/Cmd-[`
+Highlight            |   | `Ctrl/Cmd-L`
+
