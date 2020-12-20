@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "4b1490a8616842d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "574ece02bae79540",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "دسری نہت.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5e3dda7dd67d6808",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "first.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6988bccb1b65f62",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e814c7f21fdfc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2e65af067ed985",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac0636b663810a2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189
+  },
+  "right": {
+    "id": "0a0bf775587f3b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "325eea444bb09dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d002437ade1d0b9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "دسری نہت.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d1db03174e34978",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "591a06a37d93b4f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0d00d4bfe157a20d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.60000610351562
+  },
+  "lastOpenFiles": [
+    "دسری نہت.md",
+    "پھلا.md",
+    "first.md",
+    "#Getting Started-ReadMe.md",
+    "Getting Started.md",
+    "روزانا کی نوٹس/19-12-2020.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Day Planners/Day Planner-20201219.md"
+  ]
+}
